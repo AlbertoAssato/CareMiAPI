@@ -54,7 +54,7 @@ namespace CareMIAPI.Models
         [ForeignKey("Exame")]
         public int TExameCdExame { get; set; }
 
-        public virtual Exame Exame { get; set; }
+        public Exame Exame { get; set; }
 
 
         public ResultadoExame()

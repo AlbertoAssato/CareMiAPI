@@ -26,9 +26,9 @@ namespace CareMIAPI.Models
         [Column(TypeName = "CHAR(1)")]
         public char FlSexoBiologico { get; set; }
 
+        [ForeignKey("UsuarioCdUsuario")]
         public int UsuarioCdUsuario { get; set; }
 
-        [ForeignKey("UsuarioCdUsuario")]
         public Usuario Usuario { get; set; } 
 
 

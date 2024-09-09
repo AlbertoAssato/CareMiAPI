@@ -34,9 +34,10 @@ namespace CareMIAPI.Models
         [Column(TypeName = "DATE")]
         public DateTime DtNascimento { get; set; }
 
+        [ForeignKey("PacienteCdPaciente")]
         public int PacienteCdPaciente { get; set; }
 
-        [ForeignKey("PacienteCdPaciente")]
+        
         public Paciente Paciente { get; set; } 
 
 

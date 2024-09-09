@@ -1,12 +1,139 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\faculdade\\Nova pasta\\CareMiAPI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\faculdade\\CareMiAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39A418-0532-426E-BF8A-735D4778DDCA}|CareMIAPI\\CareMIAPI.csproj|c:\\faculdade\\caremiapi\\caremiapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D39A418-0532-426E-BF8A-735D4778DDCA}|CareMIAPI\\CareMIAPI.csproj|solutionrelative:caremiapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39A418-0532-426E-BF8A-735D4778DDCA}|CareMIAPI\\CareMIAPI.csproj|c:\\faculdade\\caremiapi\\caremiapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D39A418-0532-426E-BF8A-735D4778DDCA}|CareMIAPI\\CareMIAPI.csproj|solutionrelative:caremiapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39A418-0532-426E-BF8A-735D4778DDCA}|CareMIAPI\\CareMIAPI.csproj|c:\\faculdade\\caremiapi\\caremiapi\\models\\resultadoexame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D39A418-0532-426E-BF8A-735D4778DDCA}|CareMIAPI\\CareMIAPI.csproj|solutionrelative:caremiapi\\models\\resultadoexame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39A418-0532-426E-BF8A-735D4778DDCA}|CareMIAPI\\CareMIAPI.csproj|c:\\faculdade\\caremiapi\\caremiapi\\models\\pacienteplanosaude.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D39A418-0532-426E-BF8A-735D4778DDCA}|CareMIAPI\\CareMIAPI.csproj|solutionrelative:caremiapi\\models\\pacienteplanosaude.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39A418-0532-426E-BF8A-735D4778DDCA}|CareMIAPI\\CareMIAPI.csproj|c:\\faculdade\\caremiapi\\caremiapi\\models\\planosaude.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D39A418-0532-426E-BF8A-735D4778DDCA}|CareMIAPI\\CareMIAPI.csproj|solutionrelative:caremiapi\\models\\planosaude.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39A418-0532-426E-BF8A-735D4778DDCA}|CareMIAPI\\CareMIAPI.csproj|c:\\faculdade\\caremiapi\\caremiapi\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D39A418-0532-426E-BF8A-735D4778DDCA}|CareMIAPI\\CareMIAPI.csproj|solutionrelative:caremiapi\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39A418-0532-426E-BF8A-735D4778DDCA}|CareMIAPI\\CareMIAPI.csproj|c:\\faculdade\\caremiapi\\caremiapi\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D39A418-0532-426E-BF8A-735D4778DDCA}|CareMIAPI\\CareMIAPI.csproj|solutionrelative:caremiapi\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CareMIAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CareMIAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:58:59.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "CareMIAPI\\Models\\Usuario.cs",
+              "ToolTip": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "CareMIAPI\\Models\\Usuario.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:58:33.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultadoExame.cs",
+              "DocumentMoniker": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\Models\\ResultadoExame.cs",
+              "RelativeDocumentMoniker": "CareMIAPI\\Models\\ResultadoExame.cs",
+              "ToolTip": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\Models\\ResultadoExame.cs",
+              "RelativeToolTip": "CareMIAPI\\Models\\ResultadoExame.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAywDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:58:24.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlanoSaude.cs",
+              "DocumentMoniker": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\Models\\PlanoSaude.cs",
+              "RelativeDocumentMoniker": "CareMIAPI\\Models\\PlanoSaude.cs",
+              "ToolTip": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\Models\\PlanoSaude.cs",
+              "RelativeToolTip": "CareMIAPI\\Models\\PlanoSaude.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:58:00.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacientePlanoSaude.cs",
+              "DocumentMoniker": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\Models\\PacientePlanoSaude.cs",
+              "RelativeDocumentMoniker": "CareMIAPI\\Models\\PacientePlanoSaude.cs",
+              "ToolTip": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\Models\\PacientePlanoSaude.cs",
+              "RelativeToolTip": "CareMIAPI\\Models\\PacientePlanoSaude.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:57:40.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "CareMIAPI\\Models\\Paciente.cs",
+              "ToolTip": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\Models\\Paciente.cs",
+              "RelativeToolTip": "CareMIAPI\\Models\\Paciente.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:57:25.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "CareMIAPI\\Models\\Medico.cs",
+              "ToolTip": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\Models\\Medico.cs",
+              "RelativeToolTip": "CareMIAPI\\Models\\Medico.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:57:14.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

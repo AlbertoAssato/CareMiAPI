@@ -18,12 +18,16 @@ namespace CareMIAPI.Models
         [StringLength(50)]
         public string DsExame { get; set; }
 
+        [ForeignKey("AgendamentoExameId")]
+        public int AgendamentoExameId { get; set; }
+        
+        public AgendamentoExame AgendamentoExame { get; set; }
         public Exame() { }
-        public Exame(int cdExame, string dsExame, DateTime dtExame)
+        public Exame(string dsExame, DateTime dtExame, int agendamentoExameId)
         {
-            CdExame = cdExame;
             DsExame = dsExame;
             DtExame = dtExame;
+            AgendamentoExameId = agendamentoExameId;
         }
     }
 }
