@@ -1,8 +1,15 @@
 using CareMIAPI.Data;
 using Microsoft.EntityFrameworkCore;
 using System;
+using System.Net.Http.Headers;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddHttpClient("APIClient", client =>
+{
+    client.BaseAddress = new Uri("https://localhost:7021/");
+    client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+});
 
 // Add services to the container.
 

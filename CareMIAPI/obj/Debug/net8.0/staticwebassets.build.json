@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HEG55HsAQqlIPSGwbfzhGRo59PabrwGR1wCHOYCf38Y=",
+  "Source": "CareMIAPI",
+  "BasePath": "_content/CareMIAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
