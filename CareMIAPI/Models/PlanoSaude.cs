@@ -38,6 +38,7 @@ namespace CareMIAPI.Models
         [Column(TypeName = "NUMBER(1)")]
         public bool FgAtivo { get; set; }
 
+        public ICollection<PacientePlanoSaude>? PacientePlanosSaude { get; set; }
         public PlanoSaude()
         {
         }

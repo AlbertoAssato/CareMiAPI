@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gAwS+OAkeBI=",
+  "dgSpecHash": "gM5d+E9BwD4=",
   "success": true,
-  "projectFilePath": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\CareMIAPI.csproj",
+  "projectFilePath": "C:\\faculdade\\CareMIAPI\\CareMIAPI\\CareMIAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\evoaccer06\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\evoaccer06\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

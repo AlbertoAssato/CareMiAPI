@@ -44,6 +44,8 @@ namespace CareMIAPI.Models
         
         public Paciente Paciente { get; set; }
 
+        public ICollection<Exame>? Exame { get; set; }
+
         public AgendamentoExame()
         {
         }

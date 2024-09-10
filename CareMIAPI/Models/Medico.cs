@@ -28,6 +28,8 @@ namespace CareMIAPI.Models
         [Column(TypeName = "NUMBER(9)")]
         public int NrCelular { get; set; }
 
+        public ICollection<AgendamentoExame>? AgendamentoExame { get; set; }
+
         public Medico()
         {
         }

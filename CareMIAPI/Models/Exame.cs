@@ -22,6 +22,7 @@ namespace CareMIAPI.Models
         public int AgendamentoExameId { get; set; }
         
         public AgendamentoExame AgendamentoExame { get; set; }
+        public ResultadoExame ResultadoExame { get; set; }
         public Exame() { }
         public Exame(string dsExame, DateTime dtExame, int agendamentoExameId)
         {

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\faculdade\\CareMiAPI\\CareMIAPI\\CareMIAPI.csproj": {}
+    "C:\\faculdade\\CareMIAPI\\CareMIAPI\\CareMIAPI.csproj": {}
   },
   "projects": {
-    "C:\\faculdade\\CareMiAPI\\CareMIAPI\\CareMIAPI.csproj": {
+    "C:\\faculdade\\CareMIAPI\\CareMIAPI\\CareMIAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\CareMIAPI.csproj",
+        "projectUniqueName": "C:\\faculdade\\CareMIAPI\\CareMIAPI\\CareMIAPI.csproj",
         "projectName": "CareMIAPI",
-        "projectPath": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\CareMIAPI.csproj",
+        "projectPath": "C:\\faculdade\\CareMIAPI\\CareMIAPI\\CareMIAPI.csproj",
         "packagesPath": "C:\\Users\\evoaccer06\\.nuget\\packages\\",
         "outputPath": "C:\\faculdade\\CareMiAPI\\CareMIAPI\\obj\\",
         "projectStyle": "PackageReference",

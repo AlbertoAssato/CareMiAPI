@@ -44,9 +44,8 @@ namespace CareMIAPI.Models
 
         [Required]
         public bool FgAtivo { get; set; }
-
-
-
+        public Login Login { get; set; }
+        public Paciente Paciente { get; set; }
 
 
         public Usuario()

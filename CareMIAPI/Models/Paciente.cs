@@ -29,7 +29,13 @@ namespace CareMIAPI.Models
         [ForeignKey("UsuarioCdUsuario")]
         public int UsuarioCdUsuario { get; set; }
 
-        public Usuario Usuario { get; set; } 
+        public Usuario Usuario { get; set; }
+
+        public Carteirinha Carteirinha { get; set; }
+
+        public ICollection<AgendamentoExame>? AgendamentoExame { get; set; }
+
+        public ICollection<PacientePlanoSaude>? PacientePlanosSaude { get; set; }
 
 
         public Paciente()
