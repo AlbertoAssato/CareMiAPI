@@ -19,7 +19,18 @@ namespace CareMIAPI.Data
         public DbSet<AgendamentoExame> AgendamentoExames { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<PacientePlanoSaude>()
+                .HasKey(pp => new { pp.PacienteId, pp.PlanoSaudeId });
 
+            modelBuilder.Entity<PacientePlanoSaude>()
+                .HasOne(pp => pp.Paciente)
+                .WithMany()
+                .HasForeignKey(pp => pp.PacienteId);
+
+            modelBuilder.Entity<PacientePlanoSaude>()
+                .HasOne(pp => pp.PlanoSaude)
+                .WithMany()
+                .HasForeignKey(pp => pp.PlanoSaudeId);
 
             base.OnModelCreating(modelBuilder);
         }
