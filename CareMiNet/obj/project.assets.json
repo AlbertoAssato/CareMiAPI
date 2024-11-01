@@ -3479,19 +3479,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\evoaccer06\\.nuget\\packages\\": {}
+    "C:\\Users\\alber\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\evoaccer06\\source\\repos\\CareMiNet\\CareMiNet\\CareMiNet.csproj",
+      "projectUniqueName": "C:\\Users\\alber\\OneDrive\\Área de Trabalho\\sprint 4 devops\\CareMiAPI\\CareMiNet\\CareMiNet.csproj",
       "projectName": "CareMiNet",
-      "projectPath": "C:\\Users\\evoaccer06\\source\\repos\\CareMiNet\\CareMiNet\\CareMiNet.csproj",
-      "packagesPath": "C:\\Users\\evoaccer06\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\evoaccer06\\source\\repos\\CareMiNet\\CareMiNet\\obj\\",
+      "projectPath": "C:\\Users\\alber\\OneDrive\\Área de Trabalho\\sprint 4 devops\\CareMiAPI\\CareMiNet\\CareMiNet.csproj",
+      "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alber\\OneDrive\\Área de Trabalho\\sprint 4 devops\\CareMiAPI\\CareMiNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\evoaccer06\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alber\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3571,7 +3571,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
